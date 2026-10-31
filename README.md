@@ -14,6 +14,11 @@ many words a day you need, and when you will finish at your current pace.
 
 `--demo` opens a temporary database with a fictional thesis.
 
+## Download
+
+Windows: get the `.exe` from [Releases](https://github.com/Apurba94/thesis-planner/releases/latest) and double-click it. No installation or Python is needed.
+Windows may show a SmartScreen warning the first time because the program is not code-signed: choose *More info*, then *Run anyway*.
+
 ## From source
 
 ```bash
